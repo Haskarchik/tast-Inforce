@@ -1,0 +1,24 @@
+.item_Add {
+  display: flex;
+  flex-direction: column;
+}
+
+.input_block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+.input_block input {
+  margin-left: 10px;
+}
+
+.size {
+  flex-direction: column;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
